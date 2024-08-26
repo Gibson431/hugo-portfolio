@@ -33,6 +33,6 @@ buttons = [
     { name = "Resume", url = "https://drive.google.com/file/d/13UryKMd8gx_lNrDf5jaIKF0Q9VVSwvoi/view?usp=sharing" },
     { name = "This Page", url = "https://github.com/Gibson431/hugo-portfolio/tree/main" },
 ]
-imageUrl = "home/profile.jpg"
+imageUrl = "home/profile.jpeg"
 imageWidth = 220
 imageHeight = 220
