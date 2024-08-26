@@ -1,4 +1,38 @@
-baseURL = "http://example.org/"
+baseURL = "http://portfolio.gibson431.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Portfolio"
+theme = "PaperMod"
+
+[menu]
+main = [
+    { identifier = "home", name = "Home", url = "/", weight = 10 },
+    { identifier = "projects", name = "Projects", url = "/projects", weight = 20 },
+    { identifier = "experience", name = "Experience", url = "/experience", weight = 300 },
+]
+
+[params]
+showToc = true
+TocOpen = false
+ShowBreadCrumbs = true
+ShowCopyCodeButtons = true
+hideMeta = false
+
+env = "production"
+
+socialIcons = [
+    { name = "email", url = "mailto:timmaxgibson@gmail.com" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/timothy-gibson-79b046182/" },
+    { name = "github", url = "https://github.com/Gibson431" },
+]
+
+[params.profileMode]
+enabled = true
+title = "Tim Gibson"
+subtitle = "Mechanical and Mechatronic Engineer"
+buttons = [
+    { name = "Resume", url = "https://drive.google.com/file/d/13UryKMd8gx_lNrDf5jaIKF0Q9VVSwvoi/view?usp=sharing" },
+    { name = "This Page", url = "https://github.com/Gibson431/hugo-portfolio/tree/main" },
+]
+imageUrl = "home/profile.jpg"
+imageWidth = 220
+imageHeight = 220
