@@ -4,7 +4,6 @@ date: 2024-06-18
 draft: false
 cover:
     image : "projects/ibis/cover.png"
-    width : 100
 ---
 
 Ibis is a full system flight computer that was designed for UTS Rocketry's 2024 rocket - Goana.
