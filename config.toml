@@ -25,6 +25,9 @@ socialIcons = [
     { name = "github", url = "https://github.com/Gibson431" },
 ]
 
+[params.assets]
+favicon = "assets/favicon.ico"
+
 [params.profileMode]
 enabled = true
 title = "Tim Gibson"
