@@ -7,7 +7,7 @@ theme = "PaperMod"
 main = [
     { identifier = "home", name = "Home", url = "/", weight = 10 },
     { identifier = "projects", name = "Projects", url = "/projects", weight = 20 },
-    { identifier = "experience", name = "Experience", url = "/experience", weight = 300 },
+    { identifier = "experience", name = "Experience", url = "/experience", weight = 30 },
 ]
 
 [params]
