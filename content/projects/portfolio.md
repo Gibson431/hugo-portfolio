@@ -1,7 +1,7 @@
 ---
 title: 'Portfolio'
 date: 2024-08-26
-draft: false
+draft: true
 ---
 ### 🔗 [GitHub](https://github.com/Gibson431/hugo-portfolio/tree/main)
 
