@@ -25,3 +25,6 @@ The system comprises of a physical box that hosts several web UIs that provide d
 The network between the ground station and any in-field devices is facilitated by a set of LoRa modules operating in the 915 MHz band.
 
 These devices include any rocket flight computers (eg. [Ibis](/projects/ibis)) and any [recovery trackers](/projects/meerkat-recovery) for personnel.
+
+![real1](/projects/meerkat/real-meerkat.jpeg)
+![real2](/projects/meerkat/real-meerkat2.jpeg)
