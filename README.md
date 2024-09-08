@@ -1,19 +1,25 @@
-# Hugo Example
+# <img src="https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true" alt="Hugo" height="30"> Portfolio
 
-This directory is a brief example of a [Hugo](https://gohugo.io/) app that can be deployed to Vercel with zero configuration.
+This directory is the code used for my portfolio website. It is using the static site framework [Hugo](https://gohugo.io/).
 
-## Deploy Your Own
+It uses the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme for formatting and site arrangement.
 
-Deploy your own Hugo project with Vercel.
+## Deployment
+
+The site is deployed on Vercel, details about deploying a Hugo site can be found below.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/hugo&template=hugo)
 
-_Live Example: https://hugo-template.vercel.app_
+### Usage
 
-### How We Created This Example
-
-To get started with Hugo for deployment with Vercel, you can use the [Hugo CLI](https://gohugo.io/commands/) to initialize the project:
+To deploy this site locally for testing, you can use the [Hugo CLI](https://gohugo.io/commands/)
 
 ```shell
-$ hugo new site project-name
+hugo server
+```
+
+or the [Vercel dev CLI](https://vercel.com/docs/cli/dev)
+
+```shell
+vercel dev
 ```
