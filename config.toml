@@ -26,7 +26,7 @@ socialIcons = [
 ]
 
 [params.assets]
-favicon = "assets/favicon.ico"
+favicon = "/assets/favicon.ico"
 
 [params.profileMode]
 enabled = true
@@ -36,6 +36,6 @@ buttons = [
   { name = "Resume", url = "https://drive.google.com/file/d/1LgQlWDK15IzZG2S8GmeXXo2vOYetll6D/view?usp=sharing" },
   { name = "This Page", url = "https://github.com/Gibson431/hugo-portfolio/tree/main" },
 ]
-imageUrl = "home/profile.jpeg"
+imageUrl = "/home/profile.jpeg"
 imageWidth = 220
 imageHeight = 220
